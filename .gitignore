@@ -1,0 +1,7 @@
+.env
+.env.*
+*.key
+.trendtrack_key
+__pycache__/
+*.py[cod]
+.pytest_cache/
